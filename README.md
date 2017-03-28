@@ -5,7 +5,7 @@ Quickstart angular 4 and asp.net mvc 5
 This repo base on https://github.com/angular/quickstart
 1. Change src folder to AngularSrc
 2. Add one line to RouteConfig.cs
-3. Copy tsconfig.json to root and change module value to 'commonjs'.
+3. Move tsconfig.json to root and change module value to 'commonjs'.
 4. Remove non-essential files.
 5. Replace index.cshtml with quickstart index.html (with some changes)(layout set to null for simplifying)
 6. minor change on systemjs.config.js
